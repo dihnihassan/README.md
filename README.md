@@ -2,4 +2,4 @@
 # This is an H1 header (largest)
 ###### This is an H6 header (smallest)
 ## Summary
-This repository contains all of the notes taken by Dihni for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Dihni](https://github.com/dihnihassan) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
